@@ -1,0 +1,3 @@
+platex Woods_Saxon.tex
+dvipdf Woods_Saxon.dvi
+rm Woods_Saxon.aux  Woods_Saxon.log
